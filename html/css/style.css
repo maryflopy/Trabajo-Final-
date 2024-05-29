@@ -373,7 +373,6 @@ form{
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    width: 95%;
 }
 .conteiner-contacto{
     display: flex;

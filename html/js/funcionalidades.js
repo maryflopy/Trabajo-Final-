@@ -1,5 +1,10 @@
+function enviar(datos)
+{
+    alert("Tus datos han sido enviados")
+}
+var datos;
 
-var nombreIngresado= prompt ("Ingrese su nombre")
+var nombreIngresado= prompt ("Ingrese su nombre");
 
 function saludo(nombre)
 {

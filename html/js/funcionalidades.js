@@ -1,3 +1,4 @@
+
 var nombreIngresado= prompt ("Ingrese su nombre")
 
 function saludo(nombre)
